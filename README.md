@@ -29,11 +29,21 @@ Estimate of time needed to complete: 1hr
 
 Start time: 10:20
 
-Finish time: _____
+Finish time: 11:15
 
-Actual time needed to complete: _____
+Actual time needed to complete: 55min
 ```
+```
+Number and name of feature: Feature #2: Modify the contents
 
+Estimate of time needed to complete: 2hr
+
+Start time: 11:20
+
+Finish time: 
+
+Actual time needed to complete:
+```
 Add this information to your README.
 
 ### Feature #1: Refactor the CSS 
