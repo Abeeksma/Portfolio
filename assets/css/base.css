@@ -112,7 +112,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: rgb(212, 25, 203);
 		line-height: 1.5em;
 		font-family: 'Cinzel', serif;
 	}
@@ -177,7 +177,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: rgb(225, 0, 255);
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
